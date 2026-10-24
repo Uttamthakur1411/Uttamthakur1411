@@ -103,7 +103,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uttamthakur1411&bg_color=080B0A&color=E8F0EB&line=52C98A&point=75E0A8&area=true&hide_border=true" width="96%" alt="GitHub contribution activity graph" />
+  <a href="https://github.com/Uttamthakur1411">
+    <img src="https://ghchart.rshah.org/52C98A/Uttamthakur1411" width="96%" alt="Uttam Singh's GitHub contribution calendar for the last year" />
+  </a>
+  <br />
+  <a href="https://github.com/Uttamthakur1411">View my contribution activity on GitHub</a>
 </p>
 
 <br />
@@ -126,3 +130,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:52C98A,45:1D3B2D,78:101A15,100:080B0A&height=125&section=footer&animation=twinkling" width="100%" alt="" />
 </p>
+
