@@ -82,7 +82,29 @@
 
 <br />
 
-<h2 align="center">04 / CURRENT FOCUS</h2>
+<h2 align="center">04 / GAME CONCEPT — NEON SNAKE</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050706,55:064E3B,100:00E676&height=130&section=header&text=NEON%20SNAKE&fontSize=38&fontColor=E8FFF0&fontAlignY=48&desc=CLASSIC%20ARCADE%20%C2%B7%20MODERN%20EXPERIENCE&descSize=13&descAlignY=78" width="96%" alt="Neon Snake concept: classic arcade, modern experience" />
+</p>
+
+<p align="center">
+  A premium arcade design direction built around an obsidian-black board,
+  restrained emerald glow, subtle grid lines, and a clean score-focused HUD.
+</p>
+
+| Experience | Design |
+| :--- | :--- |
+| **Visual style** | Obsidian black · Emerald highlights · Soft-white typography |
+| **Game board** | Subtle grid · Glowing snake · Neon food indicator |
+| **Player HUD** | Current score · Best score · Minimal controls |
+| **Controls** | Keyboard on desktop · Touch-friendly controls on mobile |
+
+<p align="center"><sub>Concept preview only — a playable demo and source link can be added once the game is hosted.</sub></p>
+
+<br />
+
+<h2 align="center">05 / CURRENT FOCUS</h2>
 
 <p align="center">
   Building complete web applications, strengthening Python and database skills,
@@ -91,7 +113,7 @@
 
 <br />
 
-<h2 align="center">05 / GITHUB IN MOTION</h2>
+<h2 align="center">06 / GITHUB IN MOTION</h2>
 
 <p align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=Uttamthakur1411&show_icons=true&hide_border=true&rank_icon=github&bg_color=080B0A&title_color=75E0A8&text_color=E8F0EB&icon_color=52C98A" alt="GitHub statistics for Uttam Singh" />
@@ -112,7 +134,7 @@
 
 <br />
 
-<h2 align="center">06 / SAY HELLO</h2>
+<h2 align="center">07 / SAY HELLO</h2>
 
 <p align="center">
   I’m happy to connect with developers, share ideas, and explore opportunities
@@ -130,4 +152,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:52C98A,45:1D3B2D,78:101A15,100:080B0A&height=125&section=footer&animation=twinkling" width="100%" alt="" />
 </p>
-
