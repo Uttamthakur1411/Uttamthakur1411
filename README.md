@@ -1,18 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050807,25:0B1310,60:10251A,100:17442F&height=280&section=header&text=UTTAM%20SINGH&fontSize=58&fontColor=F3F7F4&fontAlignY=36&desc=ASPIRING%20SOFTWARE%20DEVELOPER&descSize=18&descAlignY=54&animation=fadeIn" width="100%" alt="Uttam Singh — Aspiring Software Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B0A,45:101A15,78:1D3B2D,100:52C98A&height=250&section=header&text=UTTAM%20SINGH&fontSize=50&fontColor=F4F7F5&fontAlignY=37&desc=PYTHON%20%7C%20WEB%20DEVELOPER&descSize=17&descAlignY=59&animation=twinkling" width="100%" alt="Animated banner: Uttam Singh, Python and web developer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=67E6A5&center=true&vCenter=true&width=820&lines=Python+%E2%80%A2+Java+%E2%80%A2+Web+Development;Building+practical+projects;Strengthening+problem-solving+skills;Continuously+learning+to+create+better+software" alt="Python, Java and web development — building, learning and improving" />
-</p>
-
-<p align="center">
-  <strong>Python &bull; Java &bull; Web Development</strong>
-</p>
-
-<p align="center">
-  Building practical projects, strengthening problem-solving<br />
-  skills, and continuously learning to create better software.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=75E0A8&center=true&vCenter=true&width=760&lines=I+build+useful+web+experiences;Python+%7C+Django+%7C+Flask;Learning+by+building%2C+one+project+at+a+time;Curious+mind.+Practical+solutions." alt="Animated introduction" />
 </p>
 
 <p align="center">
