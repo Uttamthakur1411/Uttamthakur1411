@@ -1,4 +1,5 @@
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060914,35:102B55,72:164C83,100:FF365D&height=250&section=header&text=UTTAM%20SINGH&fontSize=50&fontColor=F4F7FF&fontAlignY=37&desc=PYTHON%20%7C%20WEB%20DEVELOPER&descSize=17&descAlignY=59&animation=twinkling" width="100%" alt="Animated banner: Uttam Singh, Python and web developer" />
 </p>
@@ -112,3 +113,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF365D,35:164C83,72:102B55,100:060914&height=125&section=footer&animation=twinkling" width="100%" alt="" />
 </p>
+
+
+
